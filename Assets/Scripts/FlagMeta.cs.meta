@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82da3350eee2816408c0135affc1221f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flag: {instanceID: 0}
+  - poleBottom: {instanceID: 0}
+  - castle: {instanceID: 0}
+  - Ganaste: {fileID: 8300000, guid: 4b49ba5ad8151c9419c469ff941eb551, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
